@@ -20,6 +20,6 @@ video's views from TikTok. Run it as the grader does:
 
     mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
-[![make.fun rank](https://make.fun/bounty/bring-the-humans-03/mediabeyondatlas-dev/bring-the-humans-03/rank.svg)](https://make.fun/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
-[![make.fun bounty](https://make.fun/bounty/bring-the-humans-03/mediabeyondatlas-dev/bring-the-humans-03/badge.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
-[![make.fun reward](https://make.fun/bounty/bring-the-humans-03/mediabeyondatlas-dev/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/mediabeyondatlas-dev/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/mediabeyondatlas-dev/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
